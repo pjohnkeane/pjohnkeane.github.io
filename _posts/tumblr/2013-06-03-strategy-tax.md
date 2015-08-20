@@ -1,0 +1,11 @@
+---
+layout: post
+title: Strategy tax
+date: '2013-06-03T11:29:00+01:00'
+tags:
+- glossary
+- product management
+tumblr_url: http://biscuitsforcheese.co.uk/post/52048335731/strategy-tax
+---
+A strategy tax is anything that makes a product less likely to succeed, yet is included to further larger corporate goals.
+via Ben Thompson, stratēchery

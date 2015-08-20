@@ -1,10 +1,9 @@
-<!DOCTYPE html>
-<html>
-<head>
-<link rel="stylesheet" href="styles/tufte.css"/>
-</head>
-<body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
-</body>
-</html>
+---
+profile: false
+layout: default
+---
+
+<h1> {{ site.name }} </h1>
+<p class="subtitle"> {{ site.description }} </p>
+
+{% include post-list.html %}
