@@ -1,6 +1,6 @@
 # Focus on customers and tasks, not features
 
-[Gerry McGovern](http://www.gerrymcgovern.com/new-thinking) writes about customer-centric approaches to web content, specifically agitating for a relentless focus on the top tasks of a website's customers. I've had this snippet from [an article of his about Yahoo, a content company, hiring Marissa Mayer, a product person, as CEO] sitting around since mid-2012, and [my recent post about features and product roadmaps](http://biscuitsforcheese.co.uk/post/126907408176/feature-requests-product-roadmaps-opportunity-backlog) inspired me to finally do something with it.
+[Gerry McGovern](http://www.gerrymcgovern.com/new-thinking) writes about customer-centric approaches to web content, specifically agitating for a relentless focus on the top tasks of a website's customers. I've had this snippet from [an article of his about Yahoo, a content company, hiring Marissa Mayer, a product person, as CEO](http://www.gerrymcgovern.com/new-thinking/content-enabler) sitting around since mid-2012, and [my recent post about features and product roadmaps](http://biscuitsforcheese.co.uk/post/126907408176/feature-requests-product-roadmaps-opportunity-backlog) inspired me to finally do something with it.
 
 >I never advise clients to focus on the content. A content focus generally leads to dead ends and a whole raft of bad practice. Focus on the customer instead and what they want to do. 
 
