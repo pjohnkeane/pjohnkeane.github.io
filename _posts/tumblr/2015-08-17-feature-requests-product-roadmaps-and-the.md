@@ -26,7 +26,7 @@ The other general problem with building product roadmaps from features is that u
 
 Cagan doesn’t write off product roadmaps. In fact, he comments that they’re one of his favourite tools, as long as they are used to explicitly describe the path from where you are now to how you’re going to reach the vision of the product strategy. They should be simple, high-level, and based around objectives, not features (the folks at ProdPad use similar principles, with [a roadmap built around goals and projects rather than specific features, and with strategic initiatives/themes colouring each item on the roadmap](https://www.prodpad.com/2014/08/roadmapping-in-action-this-is-how-we-do-it/)).
 
-## The Opportunity Backlog
+## The opportunity backlog
 
 So the product roadmap should simply and clearly define how we’ll achieve our product vision over time at a high level. But how does the actual work get managed, defined, and prioritised? Typically there’ll be a low level queue of work to be done, usually called something like the product backlog (which should be a prioritised set of user stories or similar). And usually the product backlog is created from the product roadmap. But there’s a problem here, as Cagan says:
 
