@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Feature Requests, Product Roadmaps, and the Opportunity Backlog
+title: Feature requests, product roadmaps, and the opportunity backlog
 date: '2015-08-17T13:25:10+01:00'
 tags:
 - Product Management
 - roadmap
 - strategy
-tumblr_url: http://biscuitsforcheese.co.uk/post/126907408176/feature-requests-product-roadmaps-and-the
+tumblr_url: http://biscuitsforcheese.co.uk/post/126907408176/feature-requests-product-roadmaps-opportunity-backlog
 ---
 Recently, I took part in a short chat on the [Product Manager HQ](http://www.productmanagerhq.com) Slack group about idea management and best practice for logging feature requests. I was reminded about the [Forget Feature Requests](http://gettingreal.37signals.com/ch05_Forget_Feature_Requests.php) chapter in Getting Real by 37signals<label for="sn-1" class="margin-toggle sidenote-number"></label><input type="checkbox" id="sn-1" class="margin-toggle"/><span class="sidenote">[Getting Real](http://gettingreal.37signals.com) and its follow-up [ReWork](http://www.amazon.co.uk/dp/0091929784/) come very strongly recommended. These books made me realise that there were ways of working that aligned with what I believed, and that I didn't necessarily have to just follow the status quo.</span>:
 
