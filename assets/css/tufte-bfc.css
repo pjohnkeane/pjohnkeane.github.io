@@ -113,11 +113,27 @@ p { line-height: 2rem;
     padding-right: 0;
     vertical-align: baseline; }
 
-blockquote p { font-size: 1.1rem;
-               width: 50%; }
+blockquote { 
+  margin-left: 0; 
+  padding-left: 1.4rem; 
+  border-left: 1px solid #cd3e3e;
+  }
+
+blockquote p { 
+  font-size: 1.2rem;
+  }
 
 blockquote footer { width: 50%;
                     text-align: right; }
+
+blockquote cite, blockquote cite a {
+  /*display: block;
+  border-top: 1px solid #cd3e3e;
+  margin-left: -1.4rem;
+  padding: 0.5rem 0.5rem 0.5rem 1.4rem;*/
+  color: #cd3e3e;
+  border-color: #cd3e3e;
+}
 
 ul { 
       padding: 0; }
