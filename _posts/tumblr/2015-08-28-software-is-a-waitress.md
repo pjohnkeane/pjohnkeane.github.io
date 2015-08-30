@@ -3,7 +3,12 @@ layout: post
 title: Software is a waitress
 published: true
 categories: []
-tags: []
+tags: 
+- ui
+- voice
+- automation
+- copy
+tumblr_url: http://biscuitsforcheese.co.uk/post/127972383856/software-is-a-waitress
 ---
 
 I was talking this week with some folks at a software company who are working on ideas around automating various financial services transactions from end-to-end, seeking to make it possible for the end user to perform the whole transaction without needing to interact with a real person (there are various benefits to this approach including efficiency, reduced cost, and the user's perception of control/ownership of the process). 
