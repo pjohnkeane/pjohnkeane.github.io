@@ -7,8 +7,9 @@ tags:
 - ui
 - complexity
 - simplicity
+- product management
 published: True
-tumblr_url: http://biscuitsforcheese.co.uk/post/9625912197/we-posted-the-agenda-and-timings-up-on-a-big-sheet
+tumblr_url: http://biscuitsforcheese.co.uk/post/129405788696/goal-time-vs-tool-time
 
 ---
 
