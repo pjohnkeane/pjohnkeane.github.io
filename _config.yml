@@ -5,7 +5,7 @@ meta_description: 'Biscuits for Cheese is a blog about product management, UX, a
 aboutPage: false
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
 
 paginate: 20
 baseurl: /
