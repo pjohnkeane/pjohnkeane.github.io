@@ -16,6 +16,14 @@ layout: cv
 
 # Experience
 
+## Product Owner
+
+### 2016 &mdash; &nbsp; | Nostrum Group, Harrogate
+
+## Business Consultant
+
+### 2015 &mdash; 2016 | Nostrum Group, Harrogate
+
 ## Product Manager/Lead Consultant 
 
 ### 2010 &mdash; 2015 | Jobstream Group, London
@@ -81,7 +89,7 @@ layout: cv
  * **Technical:** HTML/CSS, Sublime Text, SQL, SSRS, Crystal Reports, Salesforce, Github, IFTTT, Zapier
  * **Productivity:** Word/Pages/Docs, Excel/Numbers/Sheets, Powerpoint/Keynote
  * **Design & prototyping:** Visio, Balsamiq Mockups, Skitch, GIMP, InDesign
- * **Communication & project management:** Slack, Basecamp, Trello, Asana, Podio, MS Project, Gotomeeting
+ * **Communication & project management:** Slack, YouTrack (including Javascript Workflow), Basecamp, Trello, Asana, Podio, MS Project, Gotomeeting
 
 I've hand-coded websites (e.g. www.jobstream.com, www.maxrushden.com), I've helped small businesses with their web presence (e.g. rebeccalouiselaw.com). I have blogs at pjohnkeane.com and biscuitsforcheese.co.uk.
 
@@ -90,11 +98,9 @@ I've recently been working with two friends in the education sector, designing a
 # Contact details
 
  * Full name: Patrick John Keane
- * Address: 21 Acer Road, London, E8 3GX _(relocating to Harrogate in 2015)_
+ * Address: 24 Valley Road, Harrogate, HG2 0JQ
  * Tel: 07739 943258
  * Email: john@pjohnkeane.com
  * LinkedIn: https://uk.linkedin.com/in/pjohnkeane
  * Twitter: @pjohnkeane
  * Skype: pjohnkeane
-
-
