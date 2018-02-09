@@ -18,7 +18,7 @@ layout: cv
 
 ## Product Owner
 
-### 2016 &mdash; &nbsp; | Equiniti Credit Services, Harrogate
+### 2016 &mdash; &nbsp; **|** Equiniti Credit Services, Harrogate
 
 **Leader of a Scrum team, delivering software to support rapid company growth**
 
@@ -37,7 +37,7 @@ layout: cv
 
 ## Business Analyst (Consultant)
 
-### 2015 &mdash; 2016 | Equiniti Credit Services, Harrogate
+### 2015 &mdash; 2016 **|** Equiniti Credit Services, Harrogate
 
 **Product specialist, supporting delivery of client projects and internal R&D**
 
@@ -49,7 +49,7 @@ layout: cv
 
 ## Product Manager/Lead Consultant 
 
-### 2010 &mdash; 2015 | Jobstream Group, London
+### 2010 &mdash; 2015 **|** Jobstream Group, London
 
 **Senior management team member responsible for product strategy, determining and overseeing successful delivery of company and product goals**
 
@@ -68,7 +68,7 @@ layout: cv
 
 ## Consultant (Pre-Sales/Implementation) 
 
-### 2004 &mdash; 2010 | Jobstream Group, London & Cambridge
+### 2004 &mdash; 2010 **|** Jobstream Group, London & Cambridge
 
 **Product specialist working embedded and remotely with international customers**
 
@@ -89,7 +89,7 @@ layout: cv
 
 ## Quality Assurance Technician 
 
-### 2000 &mdash; 2004 | Jobstream Group, Cambridge
+### 2000 &mdash; 2004 **|** Jobstream Group, Cambridge
 
  * Designed, executed and maintained detailed test plans for functional specifications, standardised usability checklists, non-functional requirements, and regression testing
  * Implemented formal procedures for full documentation of the testing process within the software development lifecycle, improving traceability and reducing risk of procedural errors
@@ -98,14 +98,14 @@ layout: cv
 
 ## MSc Human-Centred Systems (Distinction) 
 
-### 2009 &mdash; 2012 | City University, London
+### 2009 &mdash; 2012 **|** City University, London
 
 * Courses included user-centred design, inclusive design, requirements engineering, system specification with UML, usability evaluation, and creativity. 
 * My dissertation explored the use of creativity techniques in identifying requirements for new variants of existing software products, and was put into practice via workshops at Jobstream’s annual user conference
 
 ## BA Biological Sciences  
 
-### 1997 &mdash; 2000 | Trinity College, University of Oxford
+### 1997 &mdash; 2000 **|** Trinity College, University of Oxford
 
 # Skills, tools, and side projects
 
