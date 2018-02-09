@@ -18,11 +18,34 @@ layout: cv
 
 ## Product Owner
 
-### 2016 &mdash; &nbsp; | Nostrum Group, Harrogate
+### 2016 &mdash; &nbsp; | Equiniti Credit Services, Harrogate
 
-## Business Consultant
+**Leader of a Scrum team, delivering software to support rapid company growth**
 
-### 2015 &mdash; 2016 | Nostrum Group, Harrogate
+* Leader of a cross-functional scrum team (developers, designers, and QA) 
+* Predominantly occupying the product owner role, with some scrum master responsibilities - facilitating scrum ceremonies and driving the adoption of the organisation's agile methodologies (transformation of approach)
+* Collaborated with other product owners and Head of Technology to refine and prioritise the product roadmap to align product strategy with commercial strategy
+* Breaking down high level goals and requirements into epics and user stories; writing acceptance criteria to define success for those stories; collaborating with the scrum team to estimate those stories and break down into deliverable incrememts; defined templates for others to follow when writing user stories; facilitating/driving shift in company culture from waterfall-style detailed requirements document and functional specification to an agile requirements approach
+* Liaising with stakeholders from project and professional services teams to understand business requirements and rationale, presenting product vision and new features in end of sprint reviews
+* Close interaction with other POs and scrum master to seek continual improvements to tracking and optimising flow to help realise customer value as soon as possible
+* Implemented objective prioritisation approach of backlog items to eliminate recency bias and subjective interest and refocus prioritisation on business value and service cost
+* [Communication] Implemented story maps and vision boards to create clarity around priorities and business goals
+* Personal focus on customising development management tools (YouTrack, Confluence, and Slack) to automate processes and streamline reporting to stakeholders
+- Something about variety of products (client web portals, nominal ledger, APIs, fitting with overall system architecture, internal projects)
+- Client profiles - unsecured lending, device finance, credit agreements
+- Something about data and improving robustness of delivery process 
+
+## Business Analyst (Consultant)
+
+### 2015 &mdash; 2016 | Equiniti Credit Services, Harrogate
+
+**Product specialist, supporting delivery of client projects and internal R&D**
+
+* System testing to validate software configuration against client business processes (manual testing via desktop application and API testing via Postman)
+* On-site training of call centre staff and client managers
+* Gap analysis and requirements definition with client business analysts
+* Writing user guides for key business processes
+* Second-line service desk support and day-to-day client support
 
 ## Product Manager/Lead Consultant 
 
