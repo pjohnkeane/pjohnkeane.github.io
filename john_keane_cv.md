@@ -78,7 +78,7 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 -   Responsible for pre-sales including prospect research / RFP & bid management / live sales presentations / software demos. Significant involvement on the majority of new business opportunities
 
--   Wrote technical and marketing documentation. Commissioned and project managed production of marketing collateral & advertising by 3^rd^ party design agency
+-   Wrote technical and marketing documentation. Commissioned and project managed production of marketing collateral & advertising by 3rd party design agency
 
 ## Quality Assurance Technician \| 2000 -- 2004 \| Jobstream Group, Cambridge
 
@@ -86,7 +86,9 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 # Education
 
-## MSc Human-Centred Systems (Distinction) \| 2009 -- 2012 \| City University, London BA Biological Sciences \| 1997 -- 2000 \| Trinity College, University of Oxford
+## MSc Human-Centred Systems (Distinction) \| 2009 -- 2012 \| City University, London 
+
+## BA Biological Sciences \| 1997 -- 2000 \| Trinity College, University of Oxford
 
 # Other
 
