@@ -30,7 +30,7 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 -   Instrumental in shifting company culture from waterfall-style to agile delivery, personally introducing tools such as story maps & vision boards to clearly communicate priorities & business goals
 
--   Proposed & implemented an objective, automated prioritisation framework, usin criteria agreed with key stakeholders, to eliminate recency bias & refocus on business value & delivery cost
+-   Proposed & implemented an objective, automated prioritisation framework, using criteria agreed with key stakeholders, to eliminate recency bias & refocus on business value & delivery cost
 
 -   Championed integration of data-driven research & performance testing into sprint, with multiple positive results, e.g. performance testing uncovered a technical limitation of a new technology that would otherwise have gone unnoticed into production, allowing successful implementation of an alternative approach
 
