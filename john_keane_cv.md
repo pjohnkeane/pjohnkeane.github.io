@@ -7,104 +7,92 @@ layout: cv
 <p style="font-size:6rem;">CV</p>
 
 <nav class="doc-nav" id="cv-nav">
-<a href="#summary">Summary</a> | <a href="#Experience">Experience</a> | <a href="#education">Education</a> | <a href="#skills">Skills</a>
+<a href="#summary">Summary</a> | <a href="#Experience">Experience</a> | <a href="#education">Education</a> | <a href="#other">Other</a>
 </nav>
 
 # Summary
 
-15+ years experience in enterprise software across the development and delivery lifecycle, with a particular focus on product management & agile delivery. Looking for opportunities to build things that matter, using technology sensitively and progressively, in a creative and forward-looking environment.
+Product owner/manager with 15+ years of enterprise software experience. Looking for opportunities to build things that matter, using technology creatively, sensitively and progressively.
 
 # Experience
 
-## Product Owner
+## Product Owner \| 2016 -- \| Equiniti Credit Services, Harrogate
 
-### 2016 &mdash; &nbsp; | Equiniti Credit Services, Harrogate
+-   Leader of a cross-functional, distributed scrum team (typically 8 developers / designers / QA)
 
-**Leader of a product development team, enabling rapid company growth**
+-   Aligned product roadmap delivery with short & long term commercial strategy, collaborating with product team to balance strategic goals with tactical needs, e.g. chose to dedicate one scrum team to client projects, protecting resource allocation to core product release & resulting in positive feedback across the organisation
 
-* Leader of a cross-functional scrum team (developers, designers, and QA), delivering software for a variety of company objectives, primarily strategic development of the core product, balanced with tactical client projects
-* Aligned delivery of the product roadmap with the business' short and long term commercial strategy
-* Expert at breaking down high level goals and requirements into epics and user stories to enable incremental delivery of true customer value, refining and slicing where necessary
-* Facilitated scrum ceremonies, leading sprint planning and retrospectives, and presenting to stakeholders at reviews
-* Liaised effectively with stakeholders from project, professional services, support, and infrastructure teams to ensure that business requirements were well understood, to keep them informed about ongoing product development, and to ensure successful deployment and operation of software within customer environments
-* Instrumental in driving the shift in company culture from waterfall-style requirements and functional specifications to agile delivery, personally introducing tools such as story maps and vision boards to communicate priorities and business goals with clarity
-* Implemented objective prioritisation of backlog items to eliminate recency bias and refocus on business value and delivery cost
-* Successfully integrated outsourced developers to create a blend of colocated and remote team members
-* Automated processes and streamlined reporting to stakeholders by customising and integrating development management tools (YouTrack, Confluence, Slack)
-* Integrated practices such as iterative documentation, performance testing, automated testing, and data-driven research into sprint
+-   Liaised effectively with project / professional services / support / infrastructure teams to ensure business requirements well understood and to keep all stakeholders informed about ongoing product development
 
-## Business Analyst (Consultant)
+-   Expertly broke down high level goals & requirements into epics & user stories to enable incremental delivery of true customer value, refining / slicing / re-prioritising / negotiating where necessary, e.g. de-scoped costly configuration UIs for functionality that would only be configured once up-front by internal resources
 
-### 2015 &mdash; 2016 | Equiniti Credit Services, Harrogate
+-   Confidently facilitated scrum ceremonies -- reviews / standups / planning / retrospectives -- adjusting delivery methods as needed, e.g. adopted Trello for retros to involve remote / collocated team members equally
 
-**Product specialist, supporting delivery of client projects and internal R&D**
+-   Instrumental in shifting company culture from waterfall-style to agile delivery, personally introducing tools such as story maps & vision boards to clearly communicate priorities & business goals
 
-* Gap analysis and requirements definition with client business analysts
-* Wrote user guides for key business processes and provided training internally and to customer staff on-site
-* Designed and executed system tests to validate software configuration against client business processes
-* Provided second-line service desk support and day-to-day client support
+-   Proposed & implemented an objective, automated prioritisation framework, usin criteria agreed with key stakeholders, to eliminate recency bias & refocus on business value & delivery cost
 
-## Product Manager/Lead Consultant 
+-   Championed integration of data-driven research & performance testing into sprint, with multiple positive results, e.g. performance testing uncovered a technical limitation of a new technology that would otherwise have gone unnoticed into production, allowing successful implementation of an alternative approach
 
-### 2010 &mdash; 2015 | Jobstream Group, London
+-   Directly involved in recruitment of new POs -- screening, telephone / in-person interviews & final selections
 
-**Senior management team member responsible for product strategy, determining and overseeing successful delivery of company and product goals**
+## Business Analyst (Consultant) \| 2015 -- 2016 \| Equiniti Credit Services, Harrogate
 
-* Defined the product vision based on a comprehensive understanding of the market and competitive landscape, owned the product roadmap, and took responsibility for strategic and tactical product decisions
-* Collaborated with development, sales, and support teams to analyse and prioritise user feedback and market requirements, with the outcome of establishing and maintaining the product as a highly successful proposition in a crowded and competitive niche, ultimately leading to the acquisition of the company
-* Carried out market analysis and competitive analysis to identify product opportunities. Established pricing models for new products based on projected costs and revenues
-* Led multiple major product initiatives, for example: FATCA reporting solution, including a deal with Deloitte to provide a managed service; creativity-focused ideation with internal and customer stakeholders to identify requirements for a mobile app, and subsequent outsourcing of app design
-* Senior consultant and lead project manager on key new business projects (project values typically >£500k, 6 figure recurring revenues), with end-to-end responsibilities including solution design, project oversight, and acting as the principal client support contact for the customer for inbound and outbound communications
-* Designed and delivered presentations and demos of the product and service offering to prospective clients, successfully establishing value propositions and differentiation in a crowded and competitive niche
-* Guided the development team in designing and implementing appropriate solutions against the product roadmap, encouraging the use of prototypes and wireframes to illustrate use cases and interactions
-* Directly responsible for a small development team, employing agile methodologies to rapidly deliver value-add projects, e.g. producing dashboard reports, integrating third party software systems and processes, and gathering customer system metrics to support data-driven decision making 
-* Supported and mentored trainers, project managers, technical consultants, and marketing staff in understanding the product and its market position
-* Line management responsibilities
-* Accomplished public speaker, regularly delivering presentations and workshops to prospects and customers at seminars and conferences
+-   Led gap analysis & requirements definition workshops with client business analysts
 
+-   Designed comprehensive system test plans to validate software against client business processes and supervised execution of those test plans for multiple client configurations across multiple releases
 
-## Consultant (Pre-Sales/Implementation) 
+-   Delivered on-site training to groups of 10+ staff, from call centre workers to managers, internal and external. Converted complex business process requirements into simple user guides & work instructions
 
-### 2004 &mdash; 2010 | Jobstream Group, London & Cambridge
+## Product Manager & Lead Consultant \| 2010 -- 2015 \| Jobstream Group, London
 
-**Product specialist working embedded and remotely with international customers**
+-   Senior management team member responsible for product strategy
 
-* Delivered multiple enterprise system implementations, including day-to-day project management (risk & issue logs, assigning actions, organising project meetings), data migration scoping and mapping, requirements capture, design and supervision of user acceptance testing, design and delivery of user training, on-site and remote, on-site support to ensure successful project initiation, with handover to the client services team for ongoing customer support
-* Responsible for pre-sales including prospect research, RFP/bid management, live sales presentations, and software demonstrations. Significant involvement on the majority of new business opportunities
-* Wrote technical and marketing documentation. Commissioned and project managed production of marketing collateral and advertising by 3rd party design agency
+-   Established and maintained the product as a top 3 proposition in a crowded and competitive niche, ultimately leading to the acquisition of the company by Microgen
 
-## Quality Assurance Technician 
+-   Conducted market & competitive analysis to define the product vision, identify product opportunities, and form the product roadmap. Established pricing models for new products based on projected costs & revenues
 
-### 2000 &mdash; 2004 | Jobstream Group, Cambridge
+-   Led multiple major product initiatives, e.g.
 
- * Designed, executed and maintained detailed test plans for functional specifications, standardised usability checklists, non-functional requirements, and regression testing
- * Implemented formal procedures for full documentation of the testing process within the software development lifecycle, improving traceability and reducing risk of procedural errors
+    -   FATCA reporting solution, including instigating a deal with Deloitte to provide a managed service;
+
+    -   Creativity-focused ideation with internal & external stakeholders to identify mobile app requirements, subsequent outsourcing of app design;
+
+    -   Took established product into a new sector, using lean start-up principles to innovate and validate
+
+-   Senior consultant & lead project manager on key new business projects (project values typically \>£500k, 6 figure recurring revenues), with end-to-end responsibilities including solution design / project oversight / principal client contact for inbound & outbound communications
+
+-   Designed & delivered presentations and demos to prospective clients, working directly with key staff to understand their specific needs and establish persuasive value propositions & competitor differentiation
+
+-   Guided development team in designing & implementing appropriate solutions against product roadmap, encouraging use of prototypes & wireframes to illustrate use cases & interactions
+
+-   Directly responsible for dev team employing agile methods to rapidly deliver value-add projects, e.g. information dashboards / integrating 3rd party software / gathering customer metrics for data-driven decisions
+
+-   Recruited, supported and mentored trainers, project managers, technical consultants & marketing staff
+
+-   Accomplished public speaker, regularly delivering presentations & workshops to prospects & customers at seminars & conferences
+
+## Consultant \| 2004 -- 2010 \| Jobstream Group, London & Cambridge
+
+-   Delivered multiple international enterprise system implementations, including project management / data migration scoping / requirements capture / supervision of user acceptance testing / design and delivery of user training (on-site and remote) / on-site support to ensure successful project initiation
+
+-   Responsible for pre-sales including prospect research / RFP & bid management / live sales presentations / software demos. Significant involvement on the majority of new business opportunities
+
+-   Wrote technical and marketing documentation. Commissioned and project managed production of marketing collateral & advertising by 3^rd^ party design agency
+
+## Quality Assurance Technician \| 2000 -- 2004 \| Jobstream Group, Cambridge
+
+-   Designed & executed test plans for functional specs / regression testing / non-functional testing
 
 # Education
 
-## MSc Human-Centred Systems (Distinction) 
+## MSc Human-Centred Systems (Distinction) \| 2009 -- 2012 \| City University, London BA Biological Sciences \| 1997 -- 2000 \| Trinity College, University of Oxford
 
-### 2009 &mdash; 2012 | City University, London
+# Other
 
-* Courses included user-centred design, inclusive design, requirements engineering, system specification with UML, usability evaluation, and creativity. 
-* My dissertation explored the use of creativity techniques in identifying requirements for new variants of existing software products, and was put into practice via workshops at Jobstream’s annual user conference
+I've hand-coded websites and built websites on top of content management systems (e.g. www.jobstream.com, www.maxrushden.com). I\'ve helped small businesses with their web presence (e.g. www.rebeccalouiselaw.com, www.laurajanescott.co.uk). I have blogs at www.pjohnkeane.com and www.biscuitsforcheese.co.uk. I'm on twitter at @pjohnkeane.
 
-## BA Biological Sciences  
-
-### 1997 &mdash; 2000 | Trinity College, University of Oxford
-
-# Skills, tools, and side projects
-
-I've used these tools professionally:
-
- * **Technical:** HTML/CSS (inc. Bootstrap and SASS), some JavaScript, Sublime Text, SQL, Mongo, Gherkin, SSRS, Postman, Crystal Reports, Salesforce, Github, IFTTT, Zapier, TeamCity, Octopus
- * **Productivity:** Word/Pages/Docs, Excel (inc VBA)/Numbers/Sheets, Powerpoint/Keynote, OneNote, Evernote
- * **Design & prototyping:** Visio, Balsamiq Mockups, Skitch, GIMP, InDesign
- * **Communication & project management:** Outlook, Confluence, YouTrack, Slack, Basecamp, Trello, Asana, Podio, Project, Gotomeeting
-
-I've hand-coded websites (e.g. www.jobstream.com, www.maxrushden.com), I've helped small businesses with their web presence (e.g. www.rebeccalouiselaw.com, www.laurajanescott.co.uk). I have blogs at www.pjohnkeane.com and www.biscuitsforcheese.co.uk.
-
-Working with two friends in the education sector, we designed and prototyped an innovative SaaS (web app and MongoDB) tool that helps students to learn problem-solving techniques.
+Along with two friends in the education sector, I designed and prototyped an innovative SaaS (web app and MongoDB) tool that helps students to learn problem-solving techniques.
 
 Actively involved with ProductTank Yorkshire.
 
