@@ -16,7 +16,7 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 # Experience
 
-## Product Owner \| 2016 -- \| Equiniti Credit Services, Harrogate
+## Product Owner \| 2016 &mdash; \| Equiniti Credit Services, Harrogate
 
 -   Leader of a cross-functional, distributed scrum team (typically 8 developers / designers / QA)
 
@@ -36,7 +36,7 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 -   Directly involved in recruitment of new POs -- screening, telephone / in-person interviews & final selections
 
-## Business Analyst (Consultant) \| 2015 -- 2016 \| Equiniti Credit Services, Harrogate
+## Business Analyst (Consultant) \| 2015 &mdash; 2016 \| Equiniti Credit Services, Harrogate
 
 -   Led gap analysis & requirements definition workshops with client business analysts
 
@@ -44,7 +44,7 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 -   Delivered on-site training to groups of 10+ staff, from call centre workers to managers, internal and external. Converted complex business process requirements into simple user guides & work instructions
 
-## Product Manager & Lead Consultant \| 2010 -- 2015 \| Jobstream Group, London
+## Product Manager & Lead Consultant \| 2010 &mdash; 2015 \| Jobstream Group, London
 
 -   Senior management team member responsible for product strategy
 
@@ -72,7 +72,7 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 -   Accomplished public speaker, regularly delivering presentations & workshops to prospects & customers at seminars & conferences
 
-## Consultant \| 2004 -- 2010 \| Jobstream Group, London & Cambridge
+## Consultant \| 2004 &mdash; 2010 \| Jobstream Group, London & Cambridge
 
 -   Delivered multiple international enterprise system implementations, including project management / data migration scoping / requirements capture / supervision of user acceptance testing / design and delivery of user training (on-site and remote) / on-site support to ensure successful project initiation
 
@@ -80,15 +80,17 @@ Product owner/manager with 15+ years of enterprise software experience. Looking 
 
 -   Wrote technical and marketing documentation. Commissioned and project managed production of marketing collateral & advertising by 3rd party design agency
 
-## Quality Assurance Technician \| 2000 -- 2004 \| Jobstream Group, Cambridge
+## Quality Assurance Technician \| 2000 &mdash; 2004 \| Jobstream Group, Cambridge
 
 -   Designed & executed test plans for functional specs / regression testing / non-functional testing
 
 # Education
 
-## MSc Human-Centred Systems (Distinction) \| 2009 -- 2012 \| City University, London 
+## Certified Scrum Product Owner \| 2018 \| Scrum Alliance
 
-## BA Biological Sciences \| 1997 -- 2000 \| Trinity College, University of Oxford
+## MSc Human-Centred Systems (Distinction) \| 2009 &mdash; 2012 \| City University, London 
+
+## BA Biological Sciences \| 1997 &mdash; 2000 \| Trinity College, University of Oxford
 
 # Other
 
